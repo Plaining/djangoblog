@@ -2,99 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="934d6800-672a-41d3-ba78-cbdc870d2e53" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/static/libs/absPainter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/static/libs/ajax.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/static/libs/axis-x.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/static/libs/axis-y.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/static/libs/chartEventHelper.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/static/libs/chartEventHelper.kl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/static/libs/controller.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/static/libs/cookie.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/static/libs/crossLines.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/static/libs/ie/canvas.text.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/static/libs/ie/excanvas.compiled.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/static/libs/ie/excanvas.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/static/libs/ie/optimer-normal-normal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/static/libs/k-data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/static/libs/linepainter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/static/libs/loading.compressed.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/static/libs/loading.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/static/libs/painter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/static/libs/tip.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/static/libs/util.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/static/libs/volumePainter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/static/libs/xmlparser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/templates/stock/CombineJs.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/templates/stock/QTMI_1_000001.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/templates/stock/dailyTradeAnalysis.v2.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/templates/stock/dailyTradeAnalysis.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/templates/stock/dealAmountAnalysis.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/templates/stock/dealAmountAnalysis.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/templates/stock/funds-index.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/templates/stock/github.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/templates/stock/html54stock.0314.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/templates/stock/imgs/big-min.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/templates/stock/imgs/dailyTradeAnalysis.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/templates/stock/imgs/dealAmountAnalysis.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/templates/stock/imgs/k-controller.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/templates/stock/imgs/k-touch.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/templates/stock/imgs/mini-min.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/templates/stock/imgs/moneyFlow.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/templates/stock/imgs/pie.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/templates/stock/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/templates/stock/k-data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/templates/stock/k-painter.v1.1.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/templates/stock/k-painter.v1.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/templates/stock/k-painter1.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/templates/stock/kline-controller.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/templates/stock/libs/absPainter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/templates/stock/libs/ajax.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/templates/stock/libs/axis-x.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/templates/stock/libs/axis-y.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/templates/stock/libs/chartEventHelper.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/templates/stock/libs/chartEventHelper.kl.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/templates/stock/libs/controller.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/templates/stock/libs/cookie.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/templates/stock/libs/crossLines.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/templates/stock/libs/ie/canvas.text.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/templates/stock/libs/ie/excanvas.compiled.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/templates/stock/libs/ie/excanvas.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/templates/stock/libs/ie/optimer-normal-normal.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/templates/stock/libs/linepainter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/templates/stock/libs/loading.compressed.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/templates/stock/libs/loading.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/templates/stock/libs/painter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/templates/stock/libs/tip.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/templates/stock/libs/util.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/templates/stock/libs/volumePainter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/templates/stock/libs/xmlparser.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/templates/stock/loading.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/templates/stock/loading2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/templates/stock/mins-data.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/templates/stock/mins-painter-min.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/templates/stock/mins-painter-v3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/templates/stock/moneyFlow.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/templates/stock/moneyFlow.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/templates/stock/openfundnetvalue-muchdata.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/templates/stock/openfundnetvalue.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/templates/stock/orentationchange.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/templates/stock/painter.compressed.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/templates/stock/painter.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/templates/stock/pie.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/templates/stock/readme.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/templates/stock/supportTouch.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/templates/stock/touches.htm" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stock/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mysite/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mysite/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysite/urls.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -231,7 +138,7 @@
       <workItem from="1565231749977" duration="5055000" />
       <workItem from="1565245831230" duration="1355000" />
       <workItem from="1565250869447" duration="5735000" />
-      <workItem from="1565324542776" duration="4086000" />
+      <workItem from="1565324542776" duration="4714000" />
     </task>
     <servers />
   </component>
